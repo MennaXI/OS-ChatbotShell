@@ -1,0 +1,32 @@
+/* App general colors */
+App {
+
+    background: transparent ;
+}
+
+/* Input field */
+Input {
+    color: #FF69B4;
+    background: transparent ;
+    border: none;
+}
+
+/* Log messages */
+RichLog {
+    color: #FF69B4;
+    background:  transparent ;
+}
+
+/* System info messages */
+.system-message {
+    color: #BBBBBB;
+
+}
+
+/* Focused RichLog style */
+RichLog:focus {
+    color: #FFB6C1;
+}
+ScrollView {
+    scrollbar-size: 0 0;
+}

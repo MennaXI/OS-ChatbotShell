@@ -1,0 +1,19 @@
+Hello DeepShell,
+
+This is a sample text for testing the AI assistant capabilities.
+
+Tasks to do:
+1. Summarize the text.
+2. Identify key points.
+3. Extract any code snippets.
+
+Example Python code snippet:
+
+def fibonacci(n):
+    """Return the first n Fibonacci numbers as a list"""
+    fib_seq = [0, 1]
+    for i in range(2, n):
+        fib_seq.append(fib_seq[i-1] + fib_seq[i-2])
+    return fib_seq
+
+print(fibonacci(10))
