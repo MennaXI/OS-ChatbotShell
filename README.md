@@ -1,8 +1,8 @@
-# DeepShell
+# Chatbot Shell
 
 
 
-_A whisper in the void, a tool forged in silence._ DeepShell is your clandestine terminal companion, bridging the gap between human intent and AI execution. It speaks in commands, listens in context, and acts with precision.
+_A whisper in the void, a tool forged in silence._ ChatbotShell is your clandestine terminal companion, bridging the gap between human intent and AI execution. It speaks in commands, listens in context, and acts with precision.
 
 ## Essence of the Tool
 
@@ -91,12 +91,12 @@ deepshell "open this folder"
 **Unify the Question and the Execution:**
 
 ```sh
-deepshell "open this folder and analyze the code"
+Chatshell "open this folder and analyze the code"
 ```
 
 ### The Vessel of Containment: Docker
 
-DeepShell may be bound within a Docker vessel, self-contained and portable, with Ollama as its inner oracle.
+ChatbotShell may be bound within a Docker vessel, self-contained and portable, with Ollama as its inner oracle.
 
 **Forging the Vessel**
 
